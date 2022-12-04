@@ -3,7 +3,11 @@ body {
     flex-direction: column;
     margin: 0;
     padding: 0; 
+<<<<<<< HEAD
     
+=======
+    font-family: helvetica;
+>>>>>>> 7fe97a884c833ba5ecb8e45ff0bb0f2f6b36fd02
 }
 
 .header {
