@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     margin: 0;
     padding: 0; 
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
 }
 
 .header {
@@ -98,6 +98,11 @@ a {
 .sign-up {
     align-self: flex-end;
     
+}
+
+.second-sign-up {
+    align-self: flex-end;
+    margin-bottom: 30px;
 }
 
 button {
